@@ -1,4 +1,4 @@
-Hi, this is a tiny guide on how to use the code.
+Hi, this is a tiny guide on how to use the code. Feel free, to open PRs and issues to this repo.
 
 First do to get all the packages.
 ```
@@ -50,11 +50,9 @@ Step 3. Comment part so bot won't send you stickers, and uncomment part for addi
 
 CONGRATULATIONS YOU FINISHED THIS ADVENTURE!!!
 
-p. s. if you have any questions, 
-(link for setting up the tg bot)[https://youtu.be/IlsygSzikOQ]
-(link for setting up the ngrok)[https://youtu.be/-kXrLMnh90s]
-(link to tg api for stickers)[https://core.telegram.org/bots/api#stickers]
-..
-..
-.. 
+p. s. if you have any questions
+ * (link for setting up the tg bot)[https://youtu.be/IlsygSzikOQ]
+ * (link for setting up the ngrok)[https://youtu.be/-kXrLMnh90s]
+ * (link to tg api for stickers)[https://core.telegram.org/bots/api#stickers]
+
 if you still have question, email me.
